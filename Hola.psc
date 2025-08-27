@@ -1,3 +1,3 @@
-Algoritmo Hola
-	Escribir "Hola Mundo"
+Algoritmo nombres
+    Escribir "Hola Mundo"
 FinAlgoritmo
